@@ -21,7 +21,7 @@ Additionally, some values in the dataset are not numerical, so a one-hot encodin
 
 It is imperative in this model to keep data normalization because without it the model would output an extremely high MSE. But by normalizing the data we can have a more linear relationship between the predicted values and the actual values.
 
-Lastly, the mean absolute percentage error was significantly high, inferring something about the model was inaccurate. Although there is a smaller training set, all the features in the data set may not have as much correlation to the price as originally thought.
+Lastly, the mean absolute percentage error was significantly high, inferring something about the model was inaccurate. Although there is a smaller training set, all the features in the data set may not have as much correlation to the price as originally thought. Also added feature engineering.
 
 The dataset used in this project was found on Kaggle and is free to use. It contains roughly 500 samples of housing data for training and testing. 
     
