@@ -27,7 +27,6 @@ The dataset used in this project was found on Kaggle and is free to use. It cont
     
 Link: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?resource=download
 
-
 Discuss:
 
     Why you chose the model that you did
